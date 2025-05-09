@@ -6,7 +6,7 @@ Welcome to my repository demonstrating my skills in test automation using Seleni
 
 This repository currently includes the following projects:
 
-* **Test:** - A basic example demonstrating login functionality and fill up on a form automation on a Heroku  website."
+* **Test:** - A basic example demonstrating login functionality and fill up on a form automation on a Heroku website.
 * **TechnicalAssessment:** - This project automates a full end-to-end test flow on the Swag Labs website, covering login, adding specific and random products to the cart, verifying the cart, completing checkout, and verifying order success.
 
 **Note:** I will be adding more projects to this repository in the future to further showcase my growing expertise in Selenium automation.
