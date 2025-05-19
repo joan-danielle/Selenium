@@ -19,7 +19,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 		    @BeforeEach
 		    public void setUp() {
-		        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Joan\\eclipse-workspace\\Test\\chromedriver.exe");
+		    	System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		        driver = new ChromeDriver();
 		        driver.manage().window().maximize(); // Maximize browser for consistent view
 		        driver.get(LOGIN_PAGE_URL);

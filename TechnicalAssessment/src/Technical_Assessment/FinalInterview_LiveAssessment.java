@@ -2,7 +2,6 @@ package Technical_Assessment;
 
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
-
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.List;
@@ -26,7 +25,7 @@ public class FinalInterview_LiveAssessment {
 	public static void main(String[] args) throws InterruptedException {
 	
 		//Setting up the chrome driver executable
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Joan\\eclipse-workspace\\TechnicalAssessment_FullScale\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		
 		 // Create ChromeOptions object
         ChromeOptions options = new ChromeOptions();

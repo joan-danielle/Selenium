@@ -11,7 +11,7 @@ public class PracticeTest_FillUpOfForm {
 
 	public static void main(String[] args) {
 		//Set the path to the chrome driver executable
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Joan\\eclipse-workspace\\Test\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 				
 		//Initializing the Webdriver
 		WebDriver driver = new ChromeDriver();
